@@ -1,0 +1,13 @@
+*.o
+Marlin/obj
+Marlin/*.hex
+Marlin/Marlin.cpp
+Marlin/Version.h
+applet/
+*~
+*.orig
+*.rej
+*.bak
+*.DS_Store
+*.idea
+/libraries/
