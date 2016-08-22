@@ -5,3 +5,6 @@
 	path = software/firmware/Marlin_TAZ45_Longfin_1.0.0.1
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
 
+[submodule "software/firmware/Marlin_Olive_Javelin_or_Longfin_1.0.2.20"]
+	path = software/firmware/Marlin_Olive_Javelin_or_Longfin_1.0.2.20
+	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
