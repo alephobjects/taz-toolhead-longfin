@@ -6,5 +6,5 @@
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
 
 [submodule "software/firmware/Marlin_Olivebranch_Javelin_or_Longfin_v1.0.2.20_724d126"]
-	path = software/firmware/Marlin_Olivebranch_Javelin_or_Longfin_v1.0.2.20_724d126
+	path = software/firmware/Marlin_Olivebranch_Javelin_or_Longfin_v1.0.2.20_17aabcc
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
